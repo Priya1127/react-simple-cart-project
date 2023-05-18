@@ -13,6 +13,6 @@ npm start/ npm run dev
 ### To build the project
 npm run build
   
-#### to host the project using Firebase please check the following: https://firebase.google.com/docs/hosting/quickstart
+#### To host the project using Firebase please check the following: https://firebase.google.com/docs/hosting/quickstart
  
 This project can be hosted at many platforms such as firebase, AWS or Heroku.
