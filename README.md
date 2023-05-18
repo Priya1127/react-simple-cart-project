@@ -8,9 +8,9 @@ The project makes use of ReactJs for frontend, Firebase for backend and redux fo
 
 In the project directory, you can run:
 
-### git clone <remote url>
+### git clone remote url
   
-Clone the project or download the zip.
+Clone the project  or download the zip.
 
 ### `npm install`
 
